@@ -1,0 +1,17 @@
+extends: ['@commitlint/config-conventional']
+rules:
+  subject-case: [2, 'never', ['camel-case', 'snake-case', 'sentence-case', 'start-case', 'pascal-case', 'upper-case']]
+  type-enum:
+    - 2
+    - always
+    - - chore
+      - ci
+      - feat
+      - fix
+      - docs
+      - style
+      - refactor
+      - perf
+      - test
+      - improvement
+      - breaking

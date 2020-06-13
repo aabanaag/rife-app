@@ -1,16 +1,13 @@
 # rife
 
-prevalent especially to an increasing degree
+Yet another COVID-19 app
 
-## Getting Started
+## Design
+https://www.figma.com/file/nuEkffsct5YgX0v0Bs6JWN/Rife?node-id=4%3A14
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech stack
+- [Flutter](https://flutter.dev/)
+- [Firebase](https://firebase.google.com/)
+- [CommitLint](https://commitlint.js.org/#/)
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [NovelCOVID API](https://documenter.getpostman.com/view/11144369/Szf6Z9B3?version=latest)
